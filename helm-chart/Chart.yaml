@@ -1,0 +1,4 @@
+apiVersion: v2
+name: sample-node-app
+description: A simple Node.js app Helm chart
+version: 0.1.0
